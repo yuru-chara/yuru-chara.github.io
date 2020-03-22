@@ -4,19 +4,7 @@
 
 <!-- Main --> 
 <url>
-  <loc>https://electric-circuit.github.io/</loc>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>https://electric-circuit.github.io/about.html</loc>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>https://electric-circuit.github.io/contact.html</loc>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>https://electric-circuit.github.io/privacy_policy.html</loc>
+  <loc>https://yuru-chara.github.io/</loc>
   <priority>1.0</priority>
 </url>
 

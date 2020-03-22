@@ -1574,7 +1574,7 @@ footer a {
 }
 
 footer a:hover {
-	color: #016e30;
+	color: #004cff;
 }
 
 footer .active a {
@@ -1611,7 +1611,7 @@ header .bg-dark .navbar-nav .nav-link {
 }
 
 header .bg-dark .navbar-nav .nav-link:hover {
-	color: #016e30;
+	color: #004cff;
 }
 
 header .bg-dark .navbar-nav .active .nav-link {
@@ -1647,14 +1647,14 @@ header + header {
 	font-family: Meiryo UI;
 	letter-spacing: 3.5px;
 	text-shadow: 
-		2px  2px 9px #016e30,
-		-2px  2px 9px #016e30,
-		2px -2px 9px #016e30,
-		-2px -2px 9px #016e30,
-		2px  0px 9px #016e30,
-		0px  2px 9px #016e30,
-		-2px  0px 9px #016e30,
-		0px -2px 9px #016e30;
+		2px  2px 9px #004cff,
+		-2px  2px 9px #004cff,
+		2px -2px 9px #004cff,
+		-2px -2px 9px #004cff,
+		2px  0px 9px #004cff,
+		0px  2px 9px #004cff,
+		-2px  0px 9px #004cff,
+		0px -2px 9px #004cff;
 }
 
 h1 .logo {
@@ -1664,14 +1664,14 @@ h1 .logo {
 	font-family: Meiryo UI;
 	letter-spacing: 3.5px;
 	text-shadow: 
-		2px  2px 9px #016e30,
-		-2px  2px 9px #016e30,
-		2px -2px 9px #016e30,
-		-2px -2px 9px #016e30,
-		2px  0px 9px #016e30,
-		0px  2px 9px #016e30,
-		-2px  0px 9px #016e30,
-		0px -2px 9px #016e30;
+		2px  2px 9px #004cff,
+		-2px  2px 9px #004cff,
+		2px -2px 9px #004cff,
+		-2px -2px 9px #004cff,
+		2px  0px 9px #004cff,
+		0px  2px 9px #004cff,
+		-2px  0px 9px #004cff,
+		0px -2px 9px #004cff;
 }
 
 :root{
@@ -5090,7 +5090,7 @@ a .bg-light:focus, a .bg-light:hover, button .bg-light:focus, button .bg-light:h
 }
 
 .bg-dark {
-	background-color: #0c016e !important;
+	background-color: #ffff00 !important;
 }
 
 a .bg-dark:focus, a .bg-dark:hover, button .bg-dark:focus, button .bg-dark:hover {
@@ -9820,7 +9820,7 @@ code {
 	display: block;
 	text-decoration: none;
 	color: #fff;
-	background: #016e30;
+	background: #004cff;
 	text-align: center;
 	border-radius: 50%;
 	outline: none;
