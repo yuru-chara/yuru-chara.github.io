@@ -1570,7 +1570,7 @@ footer .flex-column .nav-link {
 }
 
 footer a {
-	color: #262626;
+	color: #565656;
 }
 
 footer a:hover {
@@ -1578,7 +1578,7 @@ footer a:hover {
 }
 
 footer .active a {
-	color: #565656;
+	color: #262626;
 }
 
 header {
@@ -1589,8 +1589,8 @@ header {
 header p {
 	color:#262626
 }
-
 header .navbar-nav .nav-link {
+
 	color: #565656;
 }
 
@@ -10252,6 +10252,10 @@ table td {
 .says p {
   margin: 0;
   padding: 0;
+}
+
+.black {
+  color: #000;
 }
 
 /* -- plus.css -- */
