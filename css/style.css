@@ -1570,15 +1570,15 @@ footer .flex-column .nav-link {
 }
 
 footer a {
-	color: #dcdcdc;
+	color: #262626;
 }
 
 footer a:hover {
-	color: #004cff;
+	color: #329ef7;
 }
 
 footer .active a {
-	color: #fff;
+	color: #565656;
 }
 
 header {
@@ -1587,11 +1587,11 @@ header {
 }
 
 header p {
-	color:#fff
+	color:#262626
 }
 
 header .navbar-nav .nav-link {
-	color: #777;
+	color: #565656;
 }
 
 header .navbar-nav .nav-link:hover {
@@ -1599,7 +1599,7 @@ header .navbar-nav .nav-link:hover {
 }
 
 header .navbar-nav .active .nav-link {
-	color: #444444;
+	color: #262626;
 }
 
 header .navbar-toggler-icon {
